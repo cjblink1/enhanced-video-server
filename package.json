@@ -1,0 +1,22 @@
+{
+  "name": "enhanced-video-server",
+  "version": "1.0.0",
+  "description": "Video server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjblink1/enhanced-video-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjblink1/enhanced-video-server/issues"
+  },
+  "homepage": "https://github.com/cjblink1/enhanced-video-server#readme",
+  "dependencies": {
+    "video-server": "^0.2.0"
+  }
+}
